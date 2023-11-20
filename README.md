@@ -17,3 +17,5 @@ Contents:
 - `analysis_and_plotting_homogeneous_litho_0.45`: jupyter notebooks and python scripts to analyse and plot the data obtained from the model simulations. The codes are shown for the homogeneous lithology case with concavity of 0.45. The same code logic and operations are used in the other cases. 
 
 - `natural_landscapes`: jupyter notebooks and python scripts to explore the effect of rainfall in natural landscapes. Includes basin selection, analysis metrics and plotting scripts. 
+
+- `JGR_dems`: header (`.hdr`) files with metadata for the basins of interest in natural landscapes. Data from Copernicus 30m DEM.
