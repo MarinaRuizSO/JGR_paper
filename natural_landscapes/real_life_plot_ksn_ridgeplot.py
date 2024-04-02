@@ -250,8 +250,8 @@ def plot_ridgeplot(data, data_q, show_fig, save_fig, show_legend, title_str, fig
     
 
 
-SAVE_FIGURES = True 
-SHOW_FIGS = False
+SAVE_FIGURES = False 
+SHOW_FIGS = True
 y_limit_best = 0.02
 x_limit_best = 1000
 y_limit_45 = 0.03
