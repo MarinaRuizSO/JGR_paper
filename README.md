@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10909989.svg)](https://doi.org/10.5281/zenodo.10909989)
+
+
 Code for the paper 
 
 *Can we use topography to differentiate between area and discharge-driven incision rules, and if not, how bad are our estimates of channel steepness?*
