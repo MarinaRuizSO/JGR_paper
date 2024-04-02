@@ -1,6 +1,6 @@
 Code for the paper 
 
-*Can we use topography to differentiate between area and discharge-driven incision rules, and if not how bad are our estimates of channel steepness?*
+*Can we use topography to differentiate between area and discharge-driven incision rules, and if not, how bad are our estimates of channel steepness?*
 
 Submitted to JGR: Earth Surface.
 
